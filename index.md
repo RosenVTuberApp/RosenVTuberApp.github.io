@@ -1,8 +1,119 @@
-## Welcome to GitHub Pages
+## This is a website dedication for Rosen Yu's Nijisanji Application
 
 You can use the [editor on GitHub](https://github.com/RosenVTuberApp/RosenVTuberApp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### My emails:
+1. tyu304nijisanjiapp@gmail.com
+2. yutingying2@gmail.com
+3. tyu304@gatech.edu
+
+If possible, please email 3 of them so that I won't miss anything. Thank you very much!
+
+### Getting into a virtual character you've created, please make a 5 minutes video/audio
+Link:!!!!!!!!!!]
+
+### Full Name(legal name):
+Ting-Ying Yu (Rosen)
+
+### Gender:
+Female
+
+### Date of Birth:
+02/28/2001
+
+### Country of residence:
+United States
+
+### Phone number:
++1 - (404)3076648
+
+### Self PR:
+ADD MORE!!!
+This is my personal website: [https://fakeaemajorrosen.github.io/](https://fakeaemajorrosen.github.io/)
+(I will build an app/website for Nijisanji if I am admitted.)
+
+### Experience with live streaming:
+Yes
+
+### Experience with video editing :
+Yes
+Add MORE!!!
+
+### Experience with video editing :
+Yes
+Add MORE!!!
+
+### Experience with commentary and/or live streaming of a game 
+Yes
+Add MORE!!!
+
+### Your YouTube URL:
+link / 0
+
+### Your Twitch URL:
+No / 0
+
+### Your Twitter URL:
+??? / 0
+
+### Your Instagram URL:
+??? / 0
+
+### Your TikTok URL:
+No / 0
+
+### Share a fun/happy experience, as well as a tough/sad experience you had as a streamer: 
+**Rosen Think about this!!!!!** 
+
+### Any other social media/website links that you would like to add (it will be treated as part of your portfolio):
+Again, this is my personal website: [https://fakeaemajorrosen.github.io/](https://fakeaemajorrosen.github.io/)
+
+### What is your desired streaming frequency in a week? Do tell us the reason behind your chosen frequency: 
+4 ~ 6 times a week. 
+- 6 days for normal weeks (need one day to recharge and re-organize all my work and study)
+- 4 days if I have in midterm week
+
+### Describe the skills you would be confident in using for your live streams:
+1. Numbered
+2. List
+3. 
+
+### What is your main motivation behind wanting to join NIJISANJI as a VTuber? 
+
+### What would you like to do as a VTuber? 
+
+### As a VTuber who would your target audience be, and why? *
+
+### Describe to us how you would realize your dream of becoming a VTuber, and how you would get your target audience to watch your content: *
+
+### Languages you are fluent in: 
+- Chinese
+- French (beginner level)
+- Japanese (playing game beginner level)
+
+### Do you have an existing voice acting or entertainer contract with another company/firm? 
+No
+
+### Are you currently applying to other companies/firms?
+No
+
+### Do you have a PC? 
+Yes
+ASUS TUF Gaming F15
+
+### Do you have access to high speed internet 24x7?
+Yes
+
+### If yes, please share your upload and download speed:
+Test this
+
+### Apart from a PC, please list any other gaming devices that you own (PS4, Nintendo Switch, etc.)
+Nintendo Switch, Nintendo 3DS, PSP, iPhone, iPad
+
+### Lastly, if you have any questions, requests, or anything else you would like to share, please feel free to share it with us below!
+**Rosen Write Something**
 
 ### Markdown
 
