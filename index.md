@@ -27,11 +27,18 @@ Female
 United States
 
 ### Phone number:
-+1 - (404)3076648
++1 (404)3076648
 
 ### Self PR:
-- - 2 years of experience steaming/teaching (using OBS) online lecture to over 30 audience
-- Using over 5 different communication channel (Discord, Line, Messengers, Groupme, WeChat, ...)
+- Vtubing skills:
+- Technical skills
+- Communication skills
+  - Fluent in 
+  - Using over 5 different communication channel (Discord, Line, Messengers, Groupme, WeChat, ...)
+- Cultural knowledge:
+- 
+- 2 years of experience steaming/teaching (using OBS) online lecture to over 30 audience
+
 - Being the project manager of an event with over 400 attendee (online, Remo)
 - Held over 5 online events with 30 attendees with various virtual communication platform (Zoom, Bluejeans, Cisco, ...)
 - Build about 20 software projects(web, app, software, robots, ...) per year for 3 years now
