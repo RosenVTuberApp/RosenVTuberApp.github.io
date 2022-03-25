@@ -89,9 +89,9 @@ Again, this is my personal website: [https://fakeaemajorrosen.github.io/](https:
 - 4 days if I have in midterm week
 
 ### Describe the skills you would be confident in using for your live streams:
-1. Numbered
-2. List
-3. 
+- Technical skill
+  - OBS
+    - Zoom in and out
 
 ### What is your main motivation behind wanting to join NIJISANJI as a VTuber? 
 
