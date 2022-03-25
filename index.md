@@ -30,9 +30,15 @@ United States
 +1 - (404)3076648
 
 ### Self PR:
-ADD MORE!!!
-This is my personal website: [https://fakeaemajorrosen.github.io/](https://fakeaemajorrosen.github.io/)
-(I will build an app/website for Nijisanji if I am admitted.)
+- - 2 years of experience steaming/teaching (using OBS) online lecture to over 30 audience
+- Using over 5 different communication channel (Discord, Line, Messengers, Groupme, WeChat, ...)
+- Being the project manager of an event with over 400 attendee (online, Remo)
+- Held over 5 online events with 30 attendees with various virtual communication platform (Zoom, Bluejeans, Cisco, ...)
+- Build about 20 software projects(web, app, software, robots, ...) per year for 3 years now
+- Created over 20 video/audio files since 5th grade
+- Having a in-depth understanding about Asian culture and geopolitics from living in Taiwan for 18 years (aka knowing what to avoid said on streams) 
+- This is my personal website: [https://fakeaemajorrosen.github.io/](https://fakeaemajorrosen.github.io/)
+- (⚠️I will build an app/website for Nijisanji if I am admitted.)
 
 ### Experience with live streaming:
 Yes
@@ -92,6 +98,11 @@ Again, this is my personal website: [https://fakeaemajorrosen.github.io/](https:
 - Chinese
 - French (beginner level)
 - Japanese (playing game beginner level)
+- C/C++
+- Python
+- Java
+- HTML/CSS/Javascript
+- And other coding languages :)
 
 ### Do you have an existing voice acting or entertainer contract with another company/firm? 
 No
