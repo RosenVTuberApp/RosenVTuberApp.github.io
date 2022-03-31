@@ -138,4 +138,10 @@ Test this
 Nintendo Switch, Nintendo 3DS, PSP, iPhone, iPad
 
 ### Lastly, if you have any questions, requests, or anything else you would like to share, please feel free to share it with us below!
+1. My personal website: https://fakeaemajorrosen.github.io/
+2. The website with all my application information: https://rosenvtuberapp.github.io/
+3. Motivation 手書 of applying to Nijisanji: https://youtu.be/ZugAR9X7Wtg
+4. My transcript: https://drive.google.com/file/d/1nGd3UnG8zJ2KsULmhAh1pbzIko45Ufqa/view?usp=sharing
+5. My singings: (1) https://www.youtube.com/watch?v=-Q4iFcylDfA (2) https://youtu.be/L7aHp2mk8Q8 (3)https://youtu.be/HEvF2jPQ7Ig
+6. Really short DJ demo: https://youtube.com/shorts/d-vQoSmjVMg?feature=share
   
