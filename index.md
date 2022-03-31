@@ -78,10 +78,26 @@ Again, this is my personal website: [https://fakeaemajorrosen.github.io/](https:
 Also here is my Nijisanji application website: [https://rosenvtuberapp.github.io/](https://rosenvtuberapp.github.io/)
 
 ### What is your desired streaming frequency in a week? Do tell us the reason behind your chosen frequency: 
-4 ~ 6 times a week. I will stream six days for normal weeks (need one day to recharge and re-organize all my work and study) while streaming four days if I am in a midterm week. I only have 2 required classes left for my degree and am close to graduation. Upon graduation, I plan on streaming daily. 
+4 ~ 6 times a week. 
+
+I will stream six days for normal weeks (need one day to recharge and re-organize all my work and study) while streaming four days if I am in a midterm week. I only have 2 required classes left for my degree and am close to graduation. Upon graduation, I plan on streaming daily. 
 
 ### Describe the skills you would be confident in using for your live streams:
-Here is a list containing all my skillis: ((1))My various skills, touched upon in the Self PR section, help make me an engaging streamer: I am always checking the chat with two monitors, talking or asking questions that address the interest of the viewers, and shifting topics to avoid awkward or inappropriate moments ((2))Voice acting: I have an androgynous voice and I have showcased some of it in my introduction video. In general, I can do the following voice: ikemen(池面) teenage boy, cute Shota(正太) or girl, and a dead-pan, self-depricating “gen-z” girl voice ((3))Content related skills: I am planning to deliver content related to coding and other fun science experiments (such as “Learning coding language with me”. Will elaborate this in other questions in the application), which relies on my academic background. Furthermore, I can represent my creative ideas well through drawing, computer modeling, and the use of various design software (ex: Adobe Suite Products). I also have a background in music editing, singing, and own all formal DJ equipment, which I plan to utilize during karaoke streams. ((4))OBS skills: Setup media and layers including opening and ending animations, scene changes, Zoom in / Zoom out by stretching the image layer, crop image layer by hitting ATL, and using Discord for collabs (Load multiple avatars & Discord Streamkit widgets (ex: voice)). ((5))Other helpful streaming setups: Streamlab chat integration, mirror phone/gaming device(switch) screen to my laptop, using Youtube and Twitch to stream, and setting up all hardware devices such as music affect controller and microphone. 
+Here is a list containing all my skillis: 
+
+1. My various skills, touched upon in the Self PR section, help make me an engaging streamer: I am always checking the chat with two monitors, talking or asking questions that address the interest of the viewers, and shifting topics to avoid awkward or inappropriate moments 
+2. Voice acting: I have an androgynous voice and I have showcased some of it in my introduction video. In general, I can do the following voice: ikemen(池面) teenage boy, cute Shota(正太) or girl, and a dead-pan, self-depricating “gen-z” girl voice 
+3. Content related skills: I am planning to deliver content related to coding and other fun science experiments (such as “Learning coding language with me”. Will elaborate this in other questions in the application), which relies on my academic background. Furthermore, I can represent my creative ideas well through drawing, computer modeling, and the use of various design software (ex: Adobe Suite Products). I also have a background in music editing, singing, and own all formal DJ equipment, which I plan to utilize during karaoke streams. 
+4. OBS skills: 
+  - Setup media and layers including opening and ending animations, 
+  - Scene changes, Zoom in / Zoom out by stretching the image layer, 
+  - Crop image layer by hitting ATL,
+  - Using Discord for collabs (Load multiple avatars & Discord Streamkit widgets (ex: voice))
+5. Other helpful streaming setups: 
+  - Streamlab chat integration, 
+  - Mirror phone/gaming device(switch) screen to my laptop, 
+  - Using Youtube and Twitch to stream, 
+  - Setting up all hardware devices such as music affect controller and microphone. 
 
 ### What is your main motivation behind wanting to join NIJISANJI as a VTuber? 
 As a lover of and active audience member of Nijisanji Streams, I have wanted to contribute to the community that I have fallen in love with. 
@@ -94,18 +110,69 @@ Lastly, as a fan of multiple Nijisanji EN streamers, I respect their talent and 
 
 
 ### What would you like to do as a VTuber? 
-Here are a few categories of content that I will stream : ((1st category)) Gaming: [a] Nintendo games: Mario Karts, Kirby, Pokemon, Game Builder Garage, [b] Laptop games: Minesweeper, Minecraft, Genshin, League of Legends, and I would like to try more games like Apex and Elden rings…… [c] Online/Steam: Simulation games, GeoGuessr, thewikigame, UNO, … [d] Mobile games: A3, Project sekai, idolish7, Hypmic arb.          ((2nd category)) Science and Engineering related: [a] “Learn with me (coding language)”, [b] “Fun Science Experiment”, [c]Keyboard ASMR, [d] Coding advice(save it for membership)          ((3rd category)) Others & Let’s have fun category: [a] Unboxing stream (for celebrating goals), [b] Karaoke, [c]Graphic design or 3D character design(learn with me- live2D), [d] Zatsutan(I want to do it in more of a Podcast style), [f]Music (Live DJing, mixing, …)
+Here are a few categories of content that I will stream : 
+1. Gaming: 
+  - Nintendo games: Mario Karts, Kirby, Pokemon, Game Builder Garage, 
+  - Laptop games: Minesweeper, Minecraft, Genshin, League of Legends, and I would like to try more games like Apex and Elden rings…… 
+  - Online/Steam: Simulation games, GeoGuessr, thewikigame, UNO, … [d] Mobile games: A3, Project sekai, idolish7, Hypmic arb.          
+2. Science and Engineering related: 
+  - “Learn with me (coding language)”, 
+  - “Fun Science Experiment”, 
+  - Keyboard ASMR (could goes with "Study with me" type of stream)
+  - Coding advice(save it for membership)          
+3. Others & Let’s have fun category: 
+  - Unboxing stream (for celebrating goals),  
+  - Karaoke (I will make sure to ask for copyright for first, if not they will be unarchive)
+  - Graphic design or 3D character design(learn with me- live2D), 
+  - Zatsutan(I want to do it in more of a Podcast style), 
+  - Music (Live DJing, mixing, …)
 
 ### As a VTuber who would your target audience be, and why? *
-My target audience will be: 1) people between the age of 15~35, 2) students or working people, 3) people from English speaking countries and Asian, 4) people who watch Youtube, 5) people who like androgynous characters, 6) coding or engineering lovers, 7) people who want to learn new things including coding, graphic design, 3D character development, and all my passions with me. 
+My target audience will be: 
+1. People between the age of 15~35, 
+2. Students or working people, 
+3. People from English speaking countries and Asian, 
+4. People who watch Youtube, 
+5. People who like androgynous characters,
+6. Coding or engineering lovers, 
+7. People who want to learn new things including coding, graphic design, 3D character development, and all my passions with me. 
 
 This is because my streaming content in gaming and Japanese 2D(二次元) culture overlap with current Nijisanji fan’s interests: primarily gaming. This means that my viewers will likely share the same age, occupancy, countries as the current Nijisanji audience. Moreover, I have a androgynous voice that makes me able to do sounds of shinen 少年, shota 正太, shojo少女, any cute or ikemen sound, which makes me a good it for both gender of characters and even be an androgynous character. I know that there is a big audience attracted to such typecharacter from watching anime and playing otome games. However, if another typecharacter is more likeable than the other, I will adopt the voice that works the best for my streams! In addition, my stream will include coding(“Learn coding with me”, “Study with me + Keyboard ASMR”) , obscure scientific knowledge, and science experiments streams(“how do ants form rafts during flood” + “what bubble wand shape can blow the biggest bubble”). These topics will attract new audience members, like those in an engineering field or a science lover of any age. This will expand and diversify Nijisanji’s target audience. Lastly, anyone who has a desire to learn but needs a partner to support them in the process, will watch my streams to gain knowledge and feel comfortable attempting new things. 
 
 
 ### Describe to us how you would realize your dream of becoming a VTuber, and how you would get your target audience to watch your content: *
-Here are some of my plans for streaming content that I have sorted according to my previous categories: (1) Gaming: Other than gaming, maybe I make games with the audience with Unity or Game Builder Garage (Titles: “Data behind the encryption key”).  (2) Science and Engineering: Coding stream (“Learn <coding language> with me!”, “Study with me + ASMR”) , obscure scientific knowledge streams (“Google with me: how can ants survive floods”, “Brain cell challenge: building motors with a coil and a battery”), experiments(“what bubble wand shape can blow the biggest bubble”, “what is the porosity of M&M snack pack”, “what is the string factor of American cheese”) (3) Let’s have fun: Karaoke, DJing (I always want to do a mix of Hypmic/idolish7/A3 songs), language learning(“Google translate roast (Chinese<->English): how off could it be”), Zatsutan(“Podcast: answering fan questions” like Hypmic radio on Spotify), Unboxing things such as Japabese Stationery, snacks, ….
+Here are some of my plans for streaming content that I have sorted according to my previous categories: 
+1. Gaming: Other than common gaming streams, maybe I make games with the audience with Unity or Game Builder Garage. Titles such as: 
+  - “Data behind the encryption key”: build a game with me
+2. Science and Engineering: 
+  - Coding stream: Code for real and code for fun
+    - “Learn <coding language> with me!”
+    - “Study with me + ASMR”
+    - "Niji Prank! Making a virus like webpage to bair everyone" (Maybe for April fool streams
+  - Obscure scientific knowledge streams
+    - “Google with me: how can ants survive floods”
+    - “Brain cell challenge: building motors with a coil and a battery”
+  - Experiments
+    - “what bubble wand shape can blow the biggest bubble”
+    - “what is the porosity of M&M snack pack”
+    - “what is the string factor of American cheese”) 
+3. Let’s have fun: 
+   - Karaoke (I understand the copyright issue of karaoke streams. Therefore, I will try to notify the company before doing this of make the stream unarchieve. )
+   - DJing (I always want to do a mix of Hypmic/idolish7/A3 songs)
+   - Language learning
+     - “Google translate roast (Chinese<->English): how off could it be”
+   - Zatsutan
+     - “Podcast: answering fan questions” (in a form like Hypmic radio on Spotify)
+   - Unboxing things (I assume my audiance will also enjoy) such as 
+     - Japabese Stationery, 
+     - Japabese snacks (those comes with gacha, cards, toys, ...)
 
-To attract a view base and increase viewership I will: 1) Be active on a number of relevant social medias and collaborate with existing popular accounts to gain followers (Twitter, Instagram, …) Additionally, I will announce projects and launch virtual campaigns to create page traffic and increase online reach. I will also search and promote my character name on forums like Reddit or Discord (ego searching) to increase online exposure and, again, increase online awareness. 2) For video content, I will schedule collabs with other VTubers to co-brand and create secondary association (such as collaboration of SK8 & A3 game). This will introduce me to my target audiences and allow my reach to expand to cover a number of Vtuber’s audiences.  3) Make my content as engaging as possible (Doing AMA streams or podcasting streams that take messages, concerns, ideas from the audience.) As I have mentioned before, I am passionate about creating safe environments online for viewers. I am confident that, as a member of Nijisanji, I will be successful in not only attracting viewers but creating community and a strong bond with each viewer that keeps them returning to the channel.  
+To attract a view base and increase viewership I will: 
+1. Be active on a number of relevant social medias and collaborate with existing popular accounts to gain followers (Twitter, Instagram, …) Additionally, I will announce projects and launch virtual campaigns to create page traffic and increase online reach. I will also search and promote my character name on forums like Reddit or Discord (ego searching) to increase online exposure and, again, increase online awareness. 
+2. For video content, I will schedule collabs with other VTubers to co-brand and create secondary association (such as collaboration of SK8 & A3 game). This will introduce me to my target audiences and allow my reach to expand to cover a number of Vtuber’s audiences.  
+3. Make my content as engaging as possible (Doing AMA streams or podcasting streams that take messages, concerns, ideas from the audience.) 
+
+  As I have mentioned before, I am passionate about creating safe environments online for viewers. I am confident that, as a member of Nijisanji, I will be successful in not only attracting viewers but creating community and a strong bond with each viewer that keeps them returning to the channel.  
 
 ### Languages you are fluent in: 
 - Chinese
@@ -125,17 +192,34 @@ No
 
 ### Do you have a PC? 
 Yes
-ASUS TUF Gaming F15
-Acer Nitro 5
+1. ASUS TUF Gaming F15: 
+ - Windows 11 
+ - Intel® Core™ i7-10750H Processor 2.6 GHz (12M Cache, up to 5.0 GHz, 6 cores)
+ - NVIDIA® GeForce® GTX 1650 Ti, 4GB GDDR6
+ - 15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.1%, Refresh Rate:144Hz, Value IPS-level, Optimus
+ - 16GB DDR4 SO-DIMM(2933MHz for i5-10300H/i7-10750H/i7-10870H), Max Capacity : 32GB
+ - 1TB SSD
+ - https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-F15/techspec/
+
+2. Acer nitro 5 
+ - Windows 11 Home.
+ - Intel® Core™ i5-11400H processor Hexa-core 2.70 GHz.
+ - NVIDIA® GeForce® RTX™ 3050Ti with 4 GB dedicated memory.
+ - 15.6" Full HD (1920 x 1080) 16:9 144 Hz.
+ - 16 GB, DDR4 SDRAM.
+ - 512 GB SSD
+ - https://www.acer.com/ac/en/US/content/series/nitro5
 
 ### Do you have access to high speed internet 24x7?
 Yes
 
 ### If yes, please share your upload and download speed:
-Test this
+Upload: 129.53 Mbps
+Download: 132.43 Mbps
 
 ### Apart from a PC, please list any other gaming devices that you own (PS4, Nintendo Switch, etc.)
-Nintendo Switch, Nintendo 3DS, PSP, iPhone, iPad
+1. Device: Nintendo Switch, Nintendo 3DS, PSP, iPhone, iPad, Ring fit. 
+2. Music Effects: Pioneer DJ DDJ-200 Smart DJ Controller (for me to have fun DJing that I learned from watching Hypnosis Mic Hangout and making sound effects)
 
 ### Lastly, if you have any questions, requests, or anything else you would like to share, please feel free to share it with us below!
 1. My personal website: [https://fakeaemajorrosen.github.io/](https://fakeaemajorrosen.github.io/)
