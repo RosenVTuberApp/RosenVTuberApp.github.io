@@ -1,4 +1,4 @@
-## Rosen Yu's Nijisanji Application
+
 
 # The website has been updated to [here](https://rosentyu304.github.io/): [https://rosentyu304.github.io/](https://rosentyu304.github.io/)
 
