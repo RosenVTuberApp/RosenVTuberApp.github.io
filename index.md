@@ -9,7 +9,8 @@
 
 
 
-## Just in case: 
+Just in case the link above does not work: 
+-------------------------------------------------------------------------------
 My emails:
 1. yutingying2@gmail.com
 2. tyu304nijisanjiapp@gmail.com
